@@ -1,5 +1,3 @@
-![Justin E. Irick — Meharry Medical College](github_banner.png)
-
 # Justin E. Irick
 
 ### Data Science Graduate Student | Biomedical Informatics | Applied Analytics
