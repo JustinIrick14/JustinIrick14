@@ -1,4 +1,4 @@
-# Justin E. Irick
+# Justin Irick
 
 ### Data Science Graduate Student | Biomedical Informatics | Applied Analytics
 
