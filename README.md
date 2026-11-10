@@ -1,5 +1,3 @@
-# Justin Irick
-
 ### Data Science Graduate Student | Biomedical Informatics | Applied Analytics
 
 ## About Me
