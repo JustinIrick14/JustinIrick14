@@ -1,14 +1,37 @@
-# Hi, I’m Justin Irick 👋
+# Justin E. Irick
 
-Data Science graduate student at Meharry Medical College in
-Nashville, TN, passionate about turning data into meaningful
-insights and practical solutions.
+### Data Science Graduate Student | Biomedical Informatics | Applied Analytics
 
 ## About Me
 
-- 🎓 Studying Data Science at Meharry Medical College
-- 📍 Based in Nashville, Tennessee
-- 💡 Interested in data analysis, visualization, and practical problem-solving
+I am pursuing a Master of Science in Data Science at Meharry Medical College’s School of Applied Computational Sciences in Nashville, Tennessee.
+
+My work connects data science, public health, and business operations. I am interested in using machine learning and applied analytics to improve healthcare access, inform decisions, and advance health equity.
+
+I bring more than a decade of experience in real estate operations, project management, and organizational leadership. This background shapes my practical approach to solving complex problems and communicating analytical findings.
+
+## Research Experience
+
+Through NIH-funded research at Vanderbilt University Medical Center’s Department of Biomedical Informatics, I applied machine learning, natural language processing, and geospatial analytics to investigate transportation-related injuries and public health outcomes.
+
+My research interests include:
+- Predictive modeling and machine learning
+- Transportation safety and geospatial analytics
+- Social determinants of health
+- Healthcare accessibility and health system performance
+
+## Education
+
+**Meharry Medical College**  
+Master of Science in Data Science — In Progress
+
+**Morehouse College**  
+Bachelor of Business Administration in Business Management  
+Minor in Economics | Summa Cum Laude
+
+## Mentorship
+
+Capstone Mentor for the AI & Data Analytics for Health Systems Certificate Program, supporting emerging professionals in translating complex data into actionable insights.
 
 ## Connect With Me
 
