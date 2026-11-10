@@ -1,5 +1,3 @@
-### Data Science Graduate Student | Biomedical Informatics | Applied Analytics
-
 ## About Me
 
 I am pursuing a Master of Science in Data Science at Meharry Medical College’s School of Applied Computational Sciences in Nashville, Tennessee.
