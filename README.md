@@ -25,13 +25,14 @@ My research interests include:
 **Meharry Medical College**  
 Master of Science in Data Science — In Progress
 
+**Vanderbilt University Medical Center**  
+NIH R25 Summer Research Internship | Summer 2026  
+Department of Biomedical Informatics  
+Applied machine learning, natural language processing, and geospatial analytics to study transportation-related injuries and public health outcomes.
+
 **Morehouse College**  
 Bachelor of Business Administration in Business Management  
 Minor in Economics | Summa Cum Laude
-
-## Mentorship
-
-Capstone Mentor for the AI & Data Analytics for Health Systems Certificate Program, supporting emerging professionals in translating complex data into actionable insights.
 
 ## Connect With Me
 
